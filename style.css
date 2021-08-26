@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    background: rgb(152, 152, 230);
+    font-weight: bolder;
+    padding-left: 10px;
+}
+textarea {
+    overflow: scroll;
+}
+.merge {
+    width: 98%;
+}
+.merge1 {
+    width: 96%;
+}
+
+.heading {
+    border-bottom: 1px solid;
+    font-size: large;
+    height: 50px;
+}
+td {
+    width: 300px;
+    height: 28px;
+}
+.center {
+    text-align: center;
+}
